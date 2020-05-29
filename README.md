@@ -1,4 +1,6 @@
 SRT2CSV
+
+
 This is a script to convert bilingual/multi-lingual subtitle file (.srt) to csv format.
 It can be run in Terminal or equivelant.
 
